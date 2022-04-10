@@ -82,4 +82,5 @@ USER:zme>1
 [Demo Server SMP](https://terminal-multiline-editor.demo.community.intersystems.com/csp/sys/UtilHome.csp)  
 [Demo Server WebTerminal](https://terminal-multiline-editor.demo.community.intersystems.com/terminal/)   
 
-**Code Quality** in SCREENSHOTS   
+**Code Quality**   
+<img width="85%" src="https://openexchange.intersystems.com/mp/img/packages/767/screenshots/u2bdbfmyourwoasez4r8s5s4cmk.jpg">
