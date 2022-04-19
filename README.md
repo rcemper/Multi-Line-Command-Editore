@@ -1,5 +1,5 @@
 # Terminal Multi-Line Command Editor #
-Terminal Multi-Line Input with Edit, Insert, Delete, Print extension for IRIS and Caché   
+Terminal Multi-Line Input with Edit, Insert, Delete, Print extension for IRIS  
 IRIS and Caché have just single command lines in terminal available   
 This Multi-Line Commands Editor also will execute the Multi-line Commands.  
 In addtiion, it is independent of access to __%SYS__ and can be installed in any namespace   
