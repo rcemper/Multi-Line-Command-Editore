@@ -1,4 +1,5 @@
 ARG IMAGE=intersystemsdc/iris-community
+FROM $IMAGE
 
 USER root   
         
